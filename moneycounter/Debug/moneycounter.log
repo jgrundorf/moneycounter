@@ -1,0 +1,6 @@
+﻿  moneyCounter.cpp
+C:\Users\grund\source\repos\moneycounter\moneycounter\moneyCounter.cpp(155,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\grund\source\repos\moneycounter\moneycounter\moneyCounter.cpp(156,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\grund\source\repos\moneycounter\moneycounter\moneyCounter.cpp(157,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\grund\source\repos\moneycounter\moneycounter\moneyCounter.cpp(158,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  moneycounter.vcxproj -> C:\Users\grund\source\repos\moneycounter\Debug\moneycounter.exe
